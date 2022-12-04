@@ -8,7 +8,7 @@ At the moment the program is in a sort-of-working state. Any problems that arise
 
 # Set Up
 
-1. Clone [GitHub Repository](https://github.com/sai-jeelakarra/Detection-and-Recognition-of-illegally-parked-vehicles.git)
+1. Clone [GitHub Repository](https://github.com/Shaunaksb/Detection-and-Recognition-of-illegally-parked-vehicles.git)
 
 2. Install Dependencies:
   `pip install -r requirements.txt`
